@@ -1,5 +1,4 @@
-# Radix-Based High-Precision Real Arithmetic in
-CKKS
+# Radix-Based High-Precision Real Arithmetic in CKKS
 
 ### 0. Acknowledgement
 Some of the helper functions, particularly those in \texttt{util\_XXX.go}, were written with the assistance of ChatGPT.
